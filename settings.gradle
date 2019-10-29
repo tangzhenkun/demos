@@ -1,2 +1,1 @@
-include ':app', ':lib'
-rootProject.name='Test'
+include ':lib'
