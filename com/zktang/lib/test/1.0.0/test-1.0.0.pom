@@ -20,6 +20,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.jude</groupId>
+      <artifactId>swipebackhelper</artifactId>
+      <version>3.1.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>org.jetbrains.kotlin</groupId>
       <artifactId>kotlin-android-extensions-runtime</artifactId>
       <version>1.3.41</version>
